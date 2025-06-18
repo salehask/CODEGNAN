@@ -1,0 +1,29 @@
+package TASK;
+
+public class task1 {
+	int id;
+	String name;
+	byte age;
+	short marks;
+	double percentage;
+	char grade;
+	float height;
+	boolean ispass_fail;
+	
+	public static void main(String[] args) {
+		task1 student1 = new task1();
+		task1 student2 = new task1();
+		task1 student3 = new task1();
+		System.out.println(student1.id);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+		
+	}
+
+}

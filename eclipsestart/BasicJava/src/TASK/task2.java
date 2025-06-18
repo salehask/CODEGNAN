@@ -1,0 +1,24 @@
+package TASK;
+
+import java.util.Scanner;
+
+public class task2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//WRITE A JAVA PROGRAM TO FIND AREA OF RECTANLGE TAKE DYNAMIC INPUT & perimeter & area of circle
+		//perimeter of circle 
+		//AREA OF SQUARE 
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter length of rectangle");
+		int length= sc.nextInt();
+		System.out.println("Enter breadth of rectangle");
+		int breath = sc.nextInt();
+		
+		System.out.println("Area OF RECTANGLE FOR "+length +":"+breath+" is "+(length*breath) );
+		System.out.println("perimeter OF RECTANGLE FOR "+length +":"+breath+" is "+(2*(length+breath)) );
+		sc.close();
+		
+	}
+
+}

@@ -1,0 +1,54 @@
+package TASK;
+
+public class task1 {
+	int id;
+	String name;
+	byte age;
+	short marks;
+	double percentage;
+	char grade;
+	float height;
+	boolean ispass_fail;
+	
+	public static void main(String[] args) {
+		task1 student1 = new task1();
+		task1 student2 = new task1();
+		task1 student3 = new task1();
+		System.out.println(student1.id);
+		System.out.println(student2.id);
+		System.out.println(student3.id);
+		System.out.println("*************");
+		System.out.println(student1.name);
+		System.out.println(student2.name);
+		System.out.println(student3.name);
+		System.out.println("*************");
+		System.out.println(student1.age);
+		System.out.println(student2.age);
+		System.out.println(student3.age);
+		System.out.println("*************");
+		System.out.println(student1.marks);
+		System.out.println(student2.marks);
+		System.out.println(student3.marks);
+		System.out.println("*************");
+		System.out.println(student1.percentage);
+		System.out.println(student2.percentage);
+		System.out.println(student3.percentage);
+		System.out.println("*************");
+		System.out.println(student1.grade);
+		System.out.println(student2.grade);
+		System.out.println(student3.grade);
+		System.out.println("*************");
+		System.out.println(student3.height);
+		System.out.println(student3.height);
+		System.out.println(student3.height);
+		System.out.println("*************");
+		System.out.println(student3.ispass_fail);
+		System.out.println(student3.ispass_fail);
+		System.out.println(student3.ispass_fail);
+		
+		
+		
+		
+	}
+
+}

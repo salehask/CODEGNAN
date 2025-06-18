@@ -1,0 +1,14 @@
+ package com.codegnan.service2;
+
+public class TypesOfVariables {
+		int rank = 1;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		TypesOfVariables obj = new TypesOfVariables();
+		System.out.println(obj);
+		System.out.println("rank =" + obj.rank);
+	}
+
+}

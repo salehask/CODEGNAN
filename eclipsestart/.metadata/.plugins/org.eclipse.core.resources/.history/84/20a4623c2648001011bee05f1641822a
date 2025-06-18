@@ -1,0 +1,17 @@
+package TASK;
+
+public class task1 {
+	int id;
+	String name;
+	byte age;
+	short marks;
+	double percentage;
+	char grade;
+	float height;
+	boolean ispass_fail;
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

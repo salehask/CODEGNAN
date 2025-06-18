@@ -1,0 +1,14 @@
+package com.codegnan.service1;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a; //Declaration
+		a=20; //Initiap=lization
+		
+		System.out.println(a);
+
+	}
+
+}
