@@ -1,0 +1,17 @@
+19/6 :using switch
+task1 ------>
+			calculator take char 
+					take two values from user 
+					if user enter +  perform add
+					if user enter -  perform sub
+					if user enter *  perform mul
+					if user enter /  perform div
+					if user enter %  perform modulus
+					default invalid operator
+task2 ------>
+			if user enter a,e.i.o,u syso vowels
+			remaining letters syso consonents
+			if user enter special char than give invalid char
+task3 ----->
+			
+					 
